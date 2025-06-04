@@ -22,4 +22,5 @@ Usage
 - Call the participate() function to enter the lottery.
 - The manager invokes pickwinner() when enough participants have joined.
 - Funds are securely transferred to the winner.
+
 This smart contract is designed for fairness and simplicity, making it easy to run decentralized lotteries without intermediaries.
